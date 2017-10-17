@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyORM.iml" filepath="$PROJECT_DIR$/.idea/modules/MyORM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyORM_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MyORM_main.iml" group="MyORM" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyORM_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MyORM_test.iml" group="MyORM" />
+    </modules>
+  </component>
+</project>
